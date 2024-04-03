@@ -6,6 +6,10 @@ Arduino modification that allows you to have an in-built LFO controlling the cut
 Sync'd to the midi-thru clock.
 This will also work on the other knobs.
 
+
+![TD-3 Cutoff Filter Mod](TD-3%20Cutoff%20Filter%20Mod.png)
+
+
 ## Specifics
 Uses an Arduino (Itsy Bitsy M0 express), which is what I had laying around to drive an op-amp (to get the voltage up) into the filter VCO.
 - On/Off toggle switch to bring the LFO in
