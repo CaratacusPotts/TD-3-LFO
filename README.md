@@ -37,3 +37,8 @@ Uses an Arduino (Itsy Bitsy M0 express), which is what I had laying around to dr
 - Flick the toggle switch so the LFo controls the cutoff filter
 - Ajust Amplitude or Frequency (slower and faster) as your like.
 
+
+## Wiring
+Sorry for the terrible schematic.  I really did not feel like spending time in KiCad sketching this... :-(
+
+![TD-3 Cutoff LFO schematic](Td3%20LFO%20Filter%20Wiring%20.jpeg)
